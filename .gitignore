@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 /env
 *.session
 *.session-journal
+=======
+/env/
+MyAccaunt*
+test.txt
+>>>>>>> fa373c1e84129d51f23ab4d2c55e856299c02852

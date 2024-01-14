@@ -7,8 +7,6 @@ from pyrogram.errors import FloodWait
 from time import sleep
 
 
-# app = Client('MyAccaunt', api_id="3791635", api_hash="cb2263b73c0d8e8c192730ed2d0a5036")
-
 accounts = [
     
     # Добавьте больше аккаунтов здесь
